@@ -1,4 +1,5 @@
 # DigiWaste 
+## Authors: Christian Ottini, Felipe Buendia
 # Waste Management Optimization System
 
 ## Installation
