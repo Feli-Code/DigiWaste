@@ -1,3 +1,4 @@
+# Composting process
 # Authors: Christian OTTINI, Felipe BUENDIA
 import numpy as np
 import matplotlib.pyplot as plt
